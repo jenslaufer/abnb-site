@@ -1,4 +1,6 @@
 links:
+- name: Home
+  link: /
 - name: Products
   link: /products/
 - name: Blog
