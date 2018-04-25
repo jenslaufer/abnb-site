@@ -3,7 +3,6 @@ title: The effect of turning off the instant booking option
 categories:
   - airbnb
   - analysis
-  - - options
 author_staff_member: jenslaufer
 show_comments: true
 ---
