@@ -1,9 +1,9 @@
 title: Urban Template
-url: "https://teal-worm.cloudvent.net"
-baseurl:
-google_analytics_key:
-google_maps_javascript_api_key:
-disqus_shortname:
+url: "http://bnbdata.co"
+baseurl: 
+google_analytics_key: UA-118130953-1
+google_maps_javascript_api_key: AIzaSyAyFLNSzsXBVjnSCxvpQ6CNXfz-siVpa7w
+disqus_shortname: bnbdata
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: Jekyll template with example content for a web agency.
