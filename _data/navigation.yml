@@ -1,11 +1,11 @@
 links:
 - name: Home
   link: /
-- name: Products
-  link: /products/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+#- name: Products
+#  link: /products/
+#- name: Blog
+#  link: /blog/
+#- name: About
+#  link: /about/
 - name: Contact
   link: /contact/
