@@ -1,31 +1,32 @@
 ---
-title: Urban
+title: bnbdata.co - We have the data to help you getting insights to increase your airbnb income.
 ---
 
 <section class="hero diagonal">
 	<div class="container">
-		<h2 class="editable">Boost your Airbnb income in 7 days</h2>
-		<p class="subtext editable">We have the data to help you getting insights that make the difference</p>
+		<h2 class="editable">Boost your Airbnb income now.</h2>
+		<p class="subtext editable">We have the data to help you getting insights that make the difference.</p>
 		<p><a class="button alt" href="{{ site.baseurl }}/products/">Start now...</a></p>
 	</div>
 </section>
-<!--
+
 <section class="diagonal patterned">
 	<div class="container halves">
 		<div>
-			<h3 class="editable">Some of our work</h3>
-			<p class="editable">We take pride in our previous work and our happy customers. We cater to any sector to boost business and increase exposure.</p>
-			<p class="editable"><a href="{{ site.baseurl }}/portfolio/">View Full Portfolio &rarr;</a></p>
+			<h3 class="editable">Our Products</h3>
+			<p class="editable">We take pride in our products and our happy customers. We want to boost your Airbnb business at affordable prices.</p>
+			<p class="editable"><a href="{{ site.baseurl }}/products/">View Our Products &rarr;</a></p>
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}"></a></li>
+				{% for product in site.products limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ product.url }}"><img src="{% include relative-src.html src=product.image_path %}"></a></li>
 				{% endfor %}
 			</ul>
 		</div>
 	</div>
 </section>
+<!--
 
 <section class="diagonal alternate">
 	<div class="container halves">
