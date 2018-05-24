@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-{% assign portfolio = site.pages | where: "path", "portfolio.html" | first %}
+{% assign products = site.pages | where: "path", "products.html" | first %}
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if portfolio.heading %}
-		<h2><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h2>
+		{% if products.name %}
+		<h2>{{ page.name}}</h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
@@ -16,10 +16,19 @@ layout: default
 
 <section class="diagonal">
 	<div class="container">
-		<p><img src="{% include relative-src.html src=page.image_path %}" class="screenshot"></p>
+	<!---->
+
+		{% if page.video_url %}
+		    <iframe width="700" height="432" src="{{ page.video_url }}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		{% else %}
+		    <p><img src="{% include relative-src.html src=page.image_path %}" class="screenshot"></p>
+        {% endif %}
 		<div>
 			{{ content }}
 		</div>
-		<p><a href="{{ page.external_url }}">Order Now</a></p>
+		<p>
+		<form action="{{ page.external_url }}">
+			<input type="submit" value="Order Now for {{ page.price }}...">
+		</form>
 	</div>
 </section>

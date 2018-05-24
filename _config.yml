@@ -58,6 +58,7 @@ defaults:
         content:
           width: 960
           height: 2000
+      is_post: true
   - scope:
       path: ""
       type: "products"
