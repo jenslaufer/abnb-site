@@ -54,11 +54,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      is_post: true
       _options:
         content:
           width: 960
           height: 2000
-      is_post: true
   - scope:
       path: ""
       type: "products"
