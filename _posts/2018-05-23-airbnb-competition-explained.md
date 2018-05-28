@@ -53,10 +53,11 @@ different metrics, which provide you local market is:
 To show you the difference we picked out four cities in the world to make a comparison.
 
 <!--
-
+What factors influence  a local airbnb market
 Factors:
 
-Demand, Supply
+Demand/supply (occupancy),
+Rate
 
 -->
 | 
