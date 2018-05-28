@@ -21,7 +21,7 @@ It represents the simple average of all rates guests paid for one night of their
 
 The most comprehensive and important metric hosts depend on to make smart decisions is RevPAR. It blends Occupancy (OCC) with Average Daily Rate (ADR) but also includes the impact of your unsold nights, giving you a true picture of profitability and success. It is calculated by multiplying Occupancy (OCC) by Average Daily Rate (ADR) for any given time period. It is the first metric a host would want to look at when analyzing the health of a listing. 
 
-## Estimated Yearly Revenue
+## Estimated Yearly Revenue (EYR)
 
 This is simply the Revenue per Available Room (RevPAR) multiplied with 365. This is a estimation what revenue can be achieved with a listing per year based on the selected period for RevPAR and OCC.
 
