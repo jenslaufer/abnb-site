@@ -17,6 +17,29 @@ price: $10
 
  Benefits over Features
 
+
+
+Persona:
+   - Airbnb Host who is unhappy with his revenue
+   - Property investors
+
+Features:
+
+   - Seasonality Calendar
+   - top 50 listings occupancy
+   - top 50 listings revenue/revpar
+   - 15 nearest listings
+   - metrics
+   - interactive map with all listings with all metrics
+
+
+
+What problems?
+   
+   - What's performance of my listing against other listings?
+   - Who are my competitors?
+   - How to increase income?
+
 -->
 
 
@@ -33,7 +56,7 @@ price: $10
 Yes. you are right: the answers to these questions are essential for tackling your competitors and increase your listing's revenue.
 
 
-We provide answers with our local market analysis:
+We provide answers to discover your local market
 
 
 

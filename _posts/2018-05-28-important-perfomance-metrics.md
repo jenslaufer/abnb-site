@@ -4,7 +4,7 @@ categories:
   - airbnb
   - market analysis
   - competition
-  - metrcs
+  - metrics
 author_staff_member: jenslaufer
 show_comments: false
 ---
