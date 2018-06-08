@@ -56,7 +56,7 @@ What problems?
 Yes. you are right: the answers to these questions are essential for tackling your competitors and increase your listing's revenue.
 
 
-We provide answers to discover your local market
+We provide answers to discover your local market.
 
 
 

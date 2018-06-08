@@ -7,6 +7,19 @@ author_staff_member: jenslaufer
 show_comments: false
 ---
 
+We at bnbdata try to see the world from your perspective as an Airbnb host. Therefore we constantly search for data for you getting the best insights in your market.
+
+Our [Local Market Analysis Report](http://localhost:4000/products/airbnb_local_market_analysis/)  will show the listings with the highest revenue and occupancy in your area.
+
+You able to check a revenue estimation, the average occupancy, the average daily rate (ADR), the revenue per available room (RevPar) for your 
+listing and and average for the whole market, plus important indexes like Market Penetration Index (MPI), Average Rate Index (ARI) and Revenue Generated Index (RGI). 
+These indexes are widely used in the hotel industry and you are able to compare your listing with your market with it.
+
+Our report use interactive maps and you are able to zoom in and out, click on a certain listing to get an impression
+how this listings performs. 
+
+We have a calendar heatmap where you can see, when competitors increase their prices and when the occupancy is high. This is your tool to unfold hidden opportunities.
+
 
 ## Navigation Bar
 
@@ -22,7 +35,7 @@ On the overall overview you are able to check important metrics for your market 
 
 ![Overview Metrics](/images/metrics.PNG)
 
-In case you are unfamiliar with the different metrics, please check our blog posts [Important Performance Metrics](/airbnb/market%20analysis/competition/metrics/2018/05/28/important-perfomance-metrics) and [How to control your pricing with key metrics](http://localhost:4000/2018/06/04/how-to-improve-your-pricing/).
+In case you are unfamiliar with the different metrics, please check our blog posts [Important Performance Metrics](/airbnb/market%20analysis/competition/metrics/2018/05/28/important-perfomance-metrics).
 
 
 On the bottom of the first page there is a interactive map with all the Airbnb listings in the different areas.
