@@ -13,10 +13,10 @@ Our [Local Market Analysis Report](http://localhost:4000/products/airbnb_local_m
 
 You able to check a revenue estimation, the average occupancy, the average daily rate (ADR), the revenue per available room (RevPar) for your 
 listing and and average for the whole market, plus important indexes like Market Penetration Index (MPI), Average Rate Index (ARI) and Revenue Generated Index (RGI). 
-These indexes are widely used in the hotel industry and you are able to compare your listing with your market with it.
+These indexes are widely used in the hotel industry and you are able to compare your listing with the market average with it.
 
 Our report use interactive maps and you are able to zoom in and out, click on a certain listing to get an impression
-how this listings performs. 
+how this listing performs. 
 
 We have a calendar heatmap where you can see, when competitors increase their prices and when the occupancy is high. This is your tool to unfold hidden opportunities.
 
@@ -33,7 +33,18 @@ From the navigation you can get to the different sections of the report:
 
 On the overall overview you are able to check important metrics for your market and your listing:
 
-![Overview Metrics](/images/metrics.PNG)
+On top there are the metrics for the local Market:
+
+![Market Metrics](/images/market_metrics.PNG)
+
+   - Average Estimated Yearly Revenue (EYR): This is calculated on all listing in the area based on their ocupancy and the prices the rooms were sold
+   - Average Daily Rate: The average rate per day a room was sold based on the next six month for all listings in the area
+   - Average Occupancy: The average occupancy for the next sixth month for all listings in the area
+   - Average Revenue per Available Room (RevPar): This is combination of the average occupancy and the average daily rate
+
+
+![Listing Metrics](/images/listing_metrics.PNG)
+![Index Metrics](/images/index_metrics.PNG)
 
 In case you are unfamiliar with the different metrics, please check our blog posts [Important Performance Metrics](/airbnb/market%20analysis/competition/metrics/2018/05/28/important-perfomance-metrics).
 
@@ -41,7 +52,7 @@ In case you are unfamiliar with the different metrics, please check our blog pos
 On the bottom of the first page there is a interactive map with all the Airbnb listings in the different areas.
 ![Interactive Overview Map](/images/map.PNG)
 
-It's possible to zoom in and click on a single listing. You can check the metrics for that individual listing, see a photo. You can check the listing on Airbnb by clicking the link:
+It's possible to zoom in and out. You can get and click on a single listing. You can check the metrics for that individual listing and a photo by clicking on a bubble. You can check the listing on Airbnb by clicking the link:
 
 ![Individual Listing](/images/map_details.PNG)
 
