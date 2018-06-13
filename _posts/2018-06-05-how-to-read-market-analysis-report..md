@@ -20,6 +20,7 @@ how this listing performs.
 
 With our calendar heatmaps you are able to spot, when competitors increase their prices and when the occupancy is high. This is your tool to unfold hidden opportunities.
 
+[Check out our Sample Report](https://s3.eu-central-1.amazonaws.com/bnbreports-47783ggffhed/sample_airbnb_local_market_analysis.html){:target="_blank"}
 
 
 ## Navigation
