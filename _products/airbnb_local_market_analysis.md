@@ -64,4 +64,4 @@ We provide answers to discover your local market.
 
 
 Aren't you convinced yet?
-[Check out our Sample Report for Amsterdam](https://s3.eu-central-1.amazonaws.com/bnbreports-47783ggffhed/sample_airbnb_local_market_analysis_amsterdam.html){:target="_blank"}
+[Check out our Sample Report](https://s3.eu-central-1.amazonaws.com/bnbreports-47783ggffhed/sample_airbnb_local_market_analysis.html){:target="_blank"}
