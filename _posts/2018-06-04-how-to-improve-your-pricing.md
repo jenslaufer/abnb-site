@@ -1,5 +1,5 @@
 ---
-title: How to increase your pricing
+title: How to improve your pricing
 categories:
   - airbnb
   - pricing
