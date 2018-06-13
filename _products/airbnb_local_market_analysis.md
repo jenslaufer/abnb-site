@@ -53,15 +53,39 @@ What problems?
   - What's the overall occupancy and rate for certain dates?
 
 
-Yes. you are right: the answers to these questions are essential for tackling your competitors and increase your listing's revenue.
+Congrats. you are asking the right questions as the answers are essential for tackling your competitors and increase your listing's revenue.
+
+But where do you get the answers to your questions?
 
 
-We provide answers to discover your local market.
+## We provide the answers in our Airbnb Local Market Analysis
+
+   - **See import metrics and check how your listings performs against the market**
+    
+     ![Metrics against the market](/images/compare_metrics.PNG) ![Estimated Yearly Revenue](/images/eyr.PNG)
+
+   - **Check the main metrics of a competitor directly on the interactive map:**
+     
+     ![Map Details](/images/map_details2.PNG)
+
+   - **Discover the 50 top performers in your market:**
+     ![Top 50 Performacers](/images/top50_eyr.PNG)
+
+    
+  
+     
 
 
 
 
 
 
-Aren't you convinced yet?
+## Do you need more details?
+
+Please check our blog article [How to read the Local Airbnb Market Analysis Report](/airbnb/market%20analysis/2018/06/05/how-to-read-market-analysis-report){:target="_blank"}
+
+
+
+## Aren't you convinced yet?
+
 [Check out our Sample Report](https://s3.eu-central-1.amazonaws.com/bnbreports-47783ggffhed/sample_airbnb_local_market_analysis.html){:target="_blank"}
