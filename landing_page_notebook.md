@@ -125,9 +125,202 @@ Tip: It can help if you try to complete the sentence “I want to…” with you
 	- The chance to offer a guided experience: most people like direction. Offer a suggestion of what to do next.
 
 
+## Call To Action Design and Where To Put It on Your Page
+
+
+Your call-to-action (CTA) is one of the most important elements on your page. It’s the final point of interaction and the last opportunity to convert your visitors.
+
+ 
+> Your call-to-action represents a handshake agreement between you and your prospects. 
+
+### 1. CTA Placement
+
+There are generally two ways to look at the placement of your call-to-action. Above the fold and below the fold. Which location you choose comes down to the complexity of your offer.
+
+#### 1a. CTA Above the Fold
+
+Placing your CTA above the fold is the most common placement choice. However, this can be expecting too much of someone who has just arrived at your page. A solution to this is to create a mini landing page experience that contains the critical elements of your page packaged up into a block of content above the fold. Then any supporting content can appear below for those who need to read it to be convinced of your page’s purpose.
+
+
+The benefit to this approach is that it can increase the understanding of what your page is about very quickly, helping to reduce bounce rates.
+
+__The 6-point punch__
+
+1. A powerful and descriptive headline: The type that stops you in your tracks when you see it in a newspaper dispenser on the street.
+
+2. A complimentary supporting sub header: This is designed to to give you both the ability to keep your headline short and sweet, and to provide the extra information that would make your headline a bloated mess if it was included.
+
+3. The hero shot: This is your best photo/video that showcases your offering. The best style of hero shot is something that shows your product/service being used in context. For instance, for a foldaway step ladder, you could show a series of photos of it being used to reach a high shelf, followed by it being neatly stowed away in a tight space.
+
+4. Benefit statements: These should succinctly describe the core benefits of your product or service and the pain your offering solves for prospects.
+
+5. A call-to-action that describes exactly what you’ll get: This should be really closely tied to the title to reinforce your page’s purpose.
+
+6. Confidence/trust indicators: This is where you back up your claims with a testimonial, customer logos press mention logos.
+
+#### 1a. CTA Below the Fold
+
+Some marketers might remember a concept called AIDA.
+
+It stands for Attention, Interest, Desire, Action, and is based on the idea that a visitor progresses through a series of linear steps on their way to making a decision to take action.
+
+The page below illustrates this flow, and is a good example of placing the CTA at the bottom of the page once the visitor has followed the progression of your marketing story.
+
+Let’s break down the template to illustrate how it follows the AIDA principles:
+
+_ATTENTION:_ You capture the attention of your visitor with a highly relevant and punchy headline.
+
+_INTEREST:_ Through the use of the video, you gain the interest of your visitor.
+
+_DESIRE:_ Desire is created through the use of features and benefits that appeal to the needs of your visitor.
+
+_ACTION:_ And finally, a strong call-to-action completes the story at the point where your visitor has been convinced that your solution is appropriate for their needs. In this case, it uses contrast and color and defines what you’ll get when you click the button, with a little extra nudge in the copy beside the button.
+
+If you can turn your page’s message into a story, then the AIDA approach can be a very effective way to build a landing page.
+
+#### 1c. When Should You Place Your CTA Below the Fold?
+
+ The diagram below (from the KISSmetrics blog) demonstrates the correlation between the level of complexity and the best choice of placement on your landing page.
+
+
+ ![Where to place CTA](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/call-to-action-design-cta-buttons/a983508c-cta-placement-complexity.png)
+
+
+
+If the product/offer is very simple, and the prospect doesn’t have to do much thinking in order to make an informed decision, positioning the CTA above the fold generally works best.
+
+If the product/offer is complex, and the prospect has to digest a lot of information in order to make an informed decision, positioning the CTA lower on the page generally works best.
+
+Tests have shown that for pages that require a high level of trust – such as those in the health industry – the page performs better by letting visitors read the full story before asking them to convert.
+
+In an experiment by Marketing Experiments, they found that by moving the call-to-action right to the bottom of a long page, the reader was able to digest the amount of information suitable for the purpose of the page – rather than being asked right away to fill in a form, which applied unnecessary friction to the original page.
+
+
+
+### The 8 guidelines of effective button design
+
+Applying these foundational rules to your button designs will help increase the chances of them standing out for your visitors and being clicked more often.
+
+_Contrast_
+
+Contrasting colors are the best way to make your button stand out from the rest of the page. Choose the color that makes it stand out the best, rather than the color you like the best.
+
+_Clickability_
+
+Make it look like a button! If it looks flat and unclickable it could be just another design element on the page. Give it some kind of 3D design (without making it look like it was designed in the 90s). You can also increase the feeling of interaction by including a rollover state where the color or depth changes when you hover the mouse over it.
+
+_Size_
+
+Size matters. If your button is buried on the page it’s less likely to be clear that it’s the target element for a conversion. Go big or (your visitors will) go home.
+
+_Directional cues_
+
+Pointing to your call-to-action is a great way to make it stand out, and guide your prospects attention to where you want them to click. Here’s an example of a button design that performed better than the version without by 12.29% (test performed by 
+
+
+_Call-to-action copy_
+
+The text on your button is of paramount importance. As a general rule it should describe exactly what will happen when it’s clicked. For instance: “Download my free ebook” or “Request a consultation callback”. Never use something like “Submit” or “Click here” – they don’t describe what will happen.
+
+_Supporting information_
+
+A short statement that supports and clarifies the purpose of the button can allow you to keep the CTA copy short and to the point, while adding extra detail. This text is typically smaller in size than the main button text and sits either inside or below the button.
+
+_Urgency_
+
+If there is a time or quantity limitation on your offer, be sure to re-state it beside your button to encourage the click. For the text on your button, try including words like “Now” or “Today”.
+
+_Whitespace_
+
+Where is the button? If that’s the response of your visitors you aren’t making it obvious enough. Give it some breathing room so it’s very easy to spot.
+
+
+## Lead Capture Forms
+
+The only purpose of a marketing form is to gather personal data, but people don’t just give up their information on a whim. To gather information effectively, you’ll need to keep 2 things in mind – the form’s design and the incentive you’re offering.
+
+> Remove the fear of the form and you’ll increase conversion rates.
+
+A correctly designed form can be a good opportunity for a conversion lift or an improved user experience.
+
+The balancing act of lead capture forms:
+
+The fear of the form <<<<<<<<<<>>>>>>>>>>>> The size of the prize
+
+### 1. Fear of the Form – Perceived and Actual Friction
+
+Friction is the barrier to entry (effort) that your form presents to your visitors. Friction falls into two categories and has one solution:
+
+1a. Perceived friction
+
+This is the shock factor of suddenly being faced with a long form. The perception of having to fill out such a long form can be daunting and cause people to change their mind. A solution to this can be to split your form over more than one page.
+
+Solution – Krug your forms
+
+ Steve Krug famously said “Get rid of half the words on your page, then get rid of half of what’s left.” Apply this thinking to your forms by reducing the number of fields. ImageScape improved a clients’ conversion rate by 120% by reducing the number of form fields from 11 to 4. And Expedia saved $12 million a year by deleting one form field
+
+1b. Actual friction
+
+This is the time and trouble it takes to actually *fill in* the form, and it can cause pretty serious abandonment issues if it’s not considered. Things that can slow down – or cause frustration during – the process of form completion include:
+
+- Too many open-ended questions that people have to ponder
+
+- Dropdown menus that don’t include a viable option for the visitor. An example of this is the commonly asked “What industry is your business in?”. If there isn’t an answer available and you don’t provide a way out (like an “Other industry” option) then frustration can occur.
+
+- Captcha security input fields. This is when you have to read strange looking words or letters and type in what you think they say in order to proceed.
+
+Solution – Learn and adapt
+
+One approach to improvement for this scenario is to analyze the results you get and adapt your form accordingly. When looking at your form data, ask yourself:
+
+Are a high percentage of dropdown results the first option in the list? If so, you should try to make the answers as short and clearly distinguishable as possible. If people can easily/quickly read the option that applies to them, they will be more inclined to select it.
+
+
+Are the responses to open-ended questions actually real answers? Or are they nonsense (such as “asdfasdf”) designed to get through the form as quickly as possible? If so, you should make the questions more direct and easier to answer. Examples would be: “Tell us about your biggest marketing problem” (requires a short story as an answer) vs. “What is the biggest barrier to your marketing success?” (which could often be answered in a few words).
+
+
+> The way you ask people to complete form fields is just as important as the information you are asking for. The clearer you ask the question, the more likely you are to get an accurate response. 
+
+
+### 2. The size of the prize
+
+Related to the perceived friction is the incentive you are providing to people who complete your forms. The goal here is to balance the size of the prize (your incentive) with the friction. The key to incentives is to use great content, as we’ll see below.
+
+#### 2a. Incentives
+
+There are many incentives for a user to give up their personal information. Examples include: 
+
+	- Ebook
+	- Whitepaper
+	- Webinar registration
+	- Newsletter registration
+	- Consultation for professional services
+	- Discount coupon/voucher
+	- Contest entry
+	- A free trial
+	- A physical gift (via direct mail)
+	- Notification of a future product launch
+	
+To align with the concept of balancing incentive with friction, remember to ask for appropriate types of information based on your marketing goals after the conversion. For instance, if you will be sending an automated newsletter to registrants, email or email/name are all that’s needed. Whereas if you have a product/service that requires a follow-up sales call, you would want more information to qualify the level of interest.
+
+
+
+
+#### 1c. Alternative Social Currency
+
+You don’t always have to ask for an email address to give away your content. In fact, some people will actively avoid disclosing their email, due to fear of being spammed. With this in mind, you can use a service such as PayWithATweet.com, which allows a visitor to pay for your content with a Twitter or Facebook share. Take a look at the example below, in this ebook download example visitors are given the choice to provide an email or share a tweet in exchange for the ebook.
+
+
+It may seem like you’re giving up email submissions, but the payoff in campaign momentum can far outweigh the sacrifice. By having people share via social networks, you produce a feedback loop that brings others to your page, giving you a steady stream of traffic even after your initial campaign launch.
+
+>
+
+
 ## Landing Page Copywriting
 
 The words on your page are the most important elements to consider when creating a landing page. Your words are the first thing people pay attention to when the page loads, and the last thing they read before deciding whether or not they will complete your conversion goal.
+
+> Answer questions before the prospect is asking them
 
 
 ### 1. Taking Inventory
