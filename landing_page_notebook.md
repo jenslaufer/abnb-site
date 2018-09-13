@@ -43,6 +43,11 @@ Warming up the customer for product purchase
 ![Click-Through Landing Page](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/landing-page-elements-blueprint/fcf3f8b4-5-elements-of-an-effective-click-through-landing-page.gif)
 
 
+### Example
+
+![Full landing page example](https://cdn.filestackcontent.com/xwjEfbIQT4eADWEtVyUG)
+
+
 ### 1.  Unique Value Proposition
 
 If people can’t determine the purpose of your page from the main headline (and subhead) you’re doing something wrong. If this is the case, try asking a colleague to describe what you do. Often, hearing someone else communicate it will strengthen your own understanding and to help you craft an effective USP.
@@ -51,15 +56,44 @@ If people can’t determine the purpose of your page from the main headline (and
 
 Use a reinforcement statement to highlight another key benefit of your product or service. It should work hand in hand with your main headline to extend your value proposition.
 
-_Main headline_
-The Easiest Way to Build, Publish and Test Landing Pages Without I.T.
-
-_Reinforcement statement_
-Create beautiful landing pages in minutes with no HTML
 
 #### Closing Argument
 
 As your landing page comes to a close, you have one final chance to communicate the benefit of your offering. Similar to the reinforcement statement, it backs up your main value proposition. For a click-through page, it should be coupled with a repeat of your call-to-action.
+
+
+#### Example
+
+
+__Webpage Builder__:
+
+_Main headline_: The Easiest Way to Build, Publish and Test Landing Pages Without I.T.
+
+_Reinforcement statement_: Create beautiful landing pages in minutes with no HTML
+
+__Student Loans__
+
+_Main headline_: Save Thousands on Your Student Dept
+
+_Subhead_: Refinance interest rates as low as 1.90% 
+
+_Reinforcement statement_: Submit one form, receive multiple offers
+
+_Reinforcement statement_: Access options from many  of the best loean lenders
+
+_Closing statement_: Stop overpaying on your student debt
+
+__Yoga__
+
+_Main headline_: Get Paid to Lead a Yoga Retreat
+
+_Subhead_: We take the hassle out of planning your retrait, so you can focus on the students
+
+_Reinforcement statement_: Easys Planning with our retreat wizard
+
+_Closing statement_: Your group is waiting
+
+
 	 
 
 ### 2. Hero Shot
@@ -423,12 +457,14 @@ Copyblogger recommends a 4 step process to extract the benefits from your featur
 	- The ease and ability to change your own website in minutes without the need or expense of a developer
 	- No complaints from customers that they can’t find your product or services or see your site’s content correctly on their mobile device
 	- No more worrying about hours of redesigning or coding to get your site to look the way it did before platform updates
-	- 
+
 3. To get to the bottom of each feature’s true benefit, keep asking the question “What does this mean for your prospect on an emotional level?”:
 
 	- Freedom and flexibility from having to pay a developer every time you want to change something on your website, and full creative control at your fingertips
 	- The relief and happiness of knowing that your prospects will always be able to get in touch with you or buy your product or services no matter what device they are using
 	- The confidence that your website is secure, looking great, and working for you regardless of how many versions of WordPress come out
+
+or So what? method
 
 
 ### 6. Customer Writes for You
