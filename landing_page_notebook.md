@@ -9,7 +9,7 @@
 
 To collect personal information (generate leads) in exchange for:  
 
-	- Reports/Whitepapers with important industry facts and statistics.
+   - Reports/Whitepapers with important industry facts and statistics.
 	- Ebooks for comprehensive guides about different aspects of your business vertical.
 	- Newsletters with tips related to your area of subject matter expertise.
 	- Podcasts for people who like to listen & learn during a commute or workout.
@@ -19,12 +19,12 @@ To collect personal information (generate leads) in exchange for:
 	- Presentations or recorded sessions including video or slides.
 	- Consultation services or booking meetings for someone to request your time or services.
 	- An ecourse delivered over a period of time – just like the one you’re reading now!
-	- 
+
 “Warming” prospects up to your offering before you push them deeper into your sales funnel to:
 
-	- Purchase your product or service online.
-	- Become a customer or subscriber of your online business.
-	- Or any of the lead capture uses listed above, if you want to use an introductory page before sending them on to the landing page with your lead gen form.
+  - Purchase your product or service online.
+  - Become a customer or subscriber of your online business.
+  - Or any of the lead capture uses listed above, if you want to use an introductory page before sending them on to the landing page with your lead gen form.
 
 
 
@@ -150,13 +150,10 @@ Tip: It can help if you try to complete the sentence “I want to…” with you
 
 ### The Confirmation page
 
-	- The opportunity for more subtle follow-up marketing: keeping people within the sphere of marketing influence if they follow or share on social media.
-
-	- The opportunity to exceed expectations: differentiate by being the best. Surprise people with a bonus extra offer or content download.
-
-	- The chance to offer info/advice that would have crowded your landing page: if you wanted to convey a message that wasn’t appropriate for your landing page (as you were rightfully keeping it focused on a single message), you now have the opportunity to do so.
-
-	- The chance to offer a guided experience: most people like direction. Offer a suggestion of what to do next.
+  - The opportunity for more subtle follow-up marketing: keeping people within the sphere of marketing influence if they follow or share on social media.
+  - The opportunity to exceed expectations: differentiate by being the best. Surprise people with a bonus extra offer or content download.
+  - The chance to offer info/advice that would have crowded your landing page: if you wanted to convey a message that wasn’t appropriate for your landing page (as you were rightfully keeping it focused on a single message), you now have the opportunity to do so.
+  - The chance to offer a guided experience: most people like direction. Offer a suggestion of what to do next.
 
 
 ## Call To Action Design and Where To Put It on Your Page
@@ -312,9 +309,7 @@ Are a high percentage of dropdown results the first option in the list? If so, y
 
 Are the responses to open-ended questions actually real answers? Or are they nonsense (such as “asdfasdf”) designed to get through the form as quickly as possible? If so, you should make the questions more direct and easier to answer. Examples would be: “Tell us about your biggest marketing problem” (requires a short story as an answer) vs. “What is the biggest barrier to your marketing success?” (which could often be answered in a few words).
 
-
 > The way you ask people to complete form fields is just as important as the information you are asking for. The clearer you ask the question, the more likely you are to get an accurate response. 
-
 
 ### 2. The size of the prize
 
@@ -324,17 +319,17 @@ Related to the perceived friction is the incentive you are providing to people w
 
 There are many incentives for a user to give up their personal information. Examples include: 
 
-	- Ebook
-	- Whitepaper
-	- Webinar registration
-	- Newsletter registration
-	- Consultation for professional services
-	- Discount coupon/voucher
-	- Contest entry
-	- A free trial
-	- A physical gift (via direct mail)
-	- Notification of a future product launch
-	
+- Ebook
+- Whitepaper
+- Webinar registration
+- Newsletter registration
+- Consultation for professional services
+- Discount coupon/voucher
+- Contest entry
+- A free trial
+- A physical gift (via direct mail)
+- Notification of a future product launch
+
 To align with the concept of balancing incentive with friction, remember to ask for appropriate types of information based on your marketing goals after the conversion. For instance, if you will be sending an automated newsletter to registrants, email or email/name are all that’s needed. Whereas if you have a product/service that requires a follow-up sales call, you would want more information to qualify the level of interest.
 
 
@@ -344,11 +339,7 @@ To align with the concept of balancing incentive with friction, remember to ask 
 
 You don’t always have to ask for an email address to give away your content. In fact, some people will actively avoid disclosing their email, due to fear of being spammed. With this in mind, you can use a service such as PayWithATweet.com, which allows a visitor to pay for your content with a Twitter or Facebook share. Take a look at the example below, in this ebook download example visitors are given the choice to provide an email or share a tweet in exchange for the ebook.
 
-
 It may seem like you’re giving up email submissions, but the payoff in campaign momentum can far outweigh the sacrifice. By having people share via social networks, you produce a feedback loop that brings others to your page, giving you a steady stream of traffic even after your initial campaign launch.
-
->
-
 
 ## Landing Page Copywriting
 
@@ -356,17 +347,16 @@ The words on your page are the most important elements to consider when creating
 
 > Answer questions before the prospect is asking them
 
-
 ### 1. Taking Inventory
 
-	- The headline
-	- The subheader
-	- Introductory paragraph
-    - Benefits/feature bullet points
-	- The form header
-	- Call-to-action copy
-	- Privacy statements
-	- Testimonials (though you don’t write these, they’re part of your copy)
+- The headline
+- The subheader
+- Introductory paragraph
+- Benefits/feature bullet points
+- The form header
+- Call-to-action copy
+- Privacy statements
+- Testimonials (though you don’t write these, they’re part of your copy)
 
 
 ### 2. Crafting An Effective Headline
@@ -495,8 +485,6 @@ Get inspired by Amazon Reviews for your  messaging [Amazon Review Mining by Joan
 |DETAILS URL|MEMORABLE PHRASES|WHAT PEOPLE WANT| WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-----------|-----------------|---------------|----------------------------------------------------|
 |           |                 |               |                                                    |
-
-
 
 ## Reference
 

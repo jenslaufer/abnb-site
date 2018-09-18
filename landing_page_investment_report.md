@@ -1,7 +1,7 @@
 # Landing Page Investment Report
 
 
-__We help you finding the right property for Airbnb by providing you the data you need__
+__We help you finding the right property for Airbnb by providing you a market analysis for your area__
 
 
 ## Problems/Questions the customer have
