@@ -169,7 +169,7 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 #### 1. Unique Value Proposition:
 
 - Headline:
-  - Identify your local competitors on Airbnb and outperform them 
+  - Identify your local competitors on Airbnb and outperform them
   - The revenue-gaining power of local Airbnb Market Data Analysis ...Without hours of research
   - Accurate & Time saving Airbnb Market Analysis reports that pass you a competitive advantage
   - We Promise Just One Thing: Insights about your Airbnb competitors
@@ -185,20 +185,24 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 
 #### 2. Benefits
 
+##### Question Technique 1
+
 1. List all of your product’s features. Narrowed down to the features that are most likely to hook your prospect:
 
    (Point-and-click site design controls)
 
-   - Market  Metrics
+   - Overall Market Metrics
    - Listing Metrics
-   - Interactive Map with listings in the region
-   - Popup with metrics of listing
    - Seasonality Occupancy Average Daily Rate Heatmap
    - Top 50 listings by occupancy and revenue
+   - Interactive Map with listings in the region
+   - Popup with metrics of listing
 
 2. Examine what each feature does, or why you’ve included it:
 
    (Easily customizes your site in fewer steps)
+
+   - Performance of the whole market
 
 3. Take your list of what your features do and ask yourself how they connect with your prospect’s true desires:
 
@@ -208,6 +212,41 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 
    (Freedom and flexibility from having to pay a developer every time you want to change something on your website, and full creative control at your fingertips)
 
+##### Question Technique 2
+
+1. Features
+
+   - Overall Market Metrics
+   - Listing Metrics
+   - Seasonality Occupancy Average Daily Rate Heatmap
+   - Top 50 listings by occupancy and revenue
+   - Interactive Map with listings in the region
+
+2. So What?
+
+   - You can see how your market performs with the overall market metrics
+   - You can see how your listing performs against the market average with the listings metrics
+   - You can see the average daily rates and occupancy for the next 6 months with Occupancy and Average Daily Rate Calendar
+   - You can see the high performers in your market with the top 50 listings
+   - You can see where the listings are located on the Interactive map
+
+3. So What?
+
+   - Learn to understand your market with the overall market metrics
+   - Learn the performance of you listing against the market average
+   - Learn about the seasonality in your market: when the demand is higher and when the competitors increase the prices
+   - Learn from the top performers and what differentiate them from you
+   - Learn the geographic distribution of your competitors
+
+4. So What?
+
+   - 
+
 #### 3. Call To Action
+
+- Download a Airbnb Market Analysis for my area now
+- Get a Airbnb Market Analysis for my area now
+- Download a Airbnb Market Analysis for your area now
+- Buy a Airbnb Market Analysis for my area Now
 
 #### 4. Social Proof
