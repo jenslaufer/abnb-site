@@ -250,3 +250,7 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 - Buy a Airbnb Market Analysis for my area Now
 
 #### 4. Social Proof
+
+Every Sunday I was checking the Airbnb calendars of my competitors calculating occupancy rates and comparing their rates. I was putting these data in an Excel Sheet. This took hours, was frustrating because I made so many mistakes... I am so happy that these time are gone. I was so happy when I received my Airbnb Market Analysis. Now I was able to get actionable insights on the WHOLE market and my competitors. I even identified new competitors. The report saved me a lot of time and helped me to do better.
+
+Manuel, Airbnb Host in Frankfurt, Germany
