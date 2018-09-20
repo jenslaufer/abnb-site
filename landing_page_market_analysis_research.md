@@ -8,37 +8,36 @@ Landing Page Copy:
 
 ## Research
 
-https://www.pricelabs.co/
+[https://www.pricelabs.co/](https://www.pricelabs.co/)
 
 ### Competitors
 
-https://www.mashvisor.com/ 
+[https://www.mashvisor.com/](https://www.mashvisor.com/)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
 | "Use analytics to ﬁnd lucrative traditional or Airbnb properties in a matter of minutes. No more spreadsheets, no more searching."|
 | "Turns 3 months of research into 15 minutes."|
-| "Find out immediately what kind of returns a property will provide 
+| "Find out immediately what kind of returns a property will provide
 and what you need to outperform the rental market." |
 | "Dont't need spreadsheets anymore"|
 | "Reliable data helps us provide accurate information for your investment"|
-| "Access to all of the real estate data at my fingertips has been a huge time saver and a competitive advantage in my investment strategy."| 
+| "Access to all of the real estate data at my fingertips has been a huge time saver and a competitive advantage in my investment strategy."|
 |"I’ve never had the time to do all the research required to make a good investment."|
 |"Mashvisor increased my confidence in new markets I had never considered"|
 | "Mashvisor has made my life easier and more efficient by providing me with the ability to quickly access and research investment properties."|
 |"I was quickly able to see where I could get the most on my investment by comparing returns on a selection of neighborhoods"|
 |"The only way you will find out is to do your own market research to see what the demand is for the type of property you want to buy in that location. You can buy market data from AirDNA or similar as well as talking to the local tourism people and local estate agents."|
 
-
 |WHAT PEOPLE WANT|
 |----------------|
-| How much rental income people can expect | 
+| How much rental income people can expect |
 
 |WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-------------------------------------------------|
 | accuracy of reports|
 
-https://airdna.co
+[https://airdna.co](https://airdna.co)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
@@ -54,13 +53,12 @@ Airbnb data & insights to succeed in the sharing economy
 
 "As an investor I rely on the data from AirDNA's Investment Explorer product to make purchasing decisions. The staff at AirDNA deliver great service. I am a returning customer which speaks volumes about their company."
 
-https://www.reddit.com/r/AirBnB/comments/7t6hh3/airdna_review_spoiler_it_sucks/
+[https://www.reddit.com/r/AirBnB/comments/7t6hh3/airdna_review_spoiler_it_sucks/](https://www.reddit.com/r/AirBnB/comments/7t6hh3/airdna_review_spoiler_it_sucks/)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
 | "I think a significant number of people simply want to know how much will a property make year round. " |
 |"I simply want to find similar properties on airdna and see what they could earn if they were available for 365 days."|
-
 
 |WHAT PEOPLE WANT|
 |----------------|
@@ -68,12 +66,12 @@ https://www.reddit.com/r/AirBnB/comments/7t6hh3/airdna_review_spoiler_it_sucks/
 |"I simply want to find similar properties on airdna and see what they could earn if they were available for 365 days."|
 |cheaper reports: They don't want to spend hundreds bucks|
 
-
 |WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-------------------------------------------------|
 | "people are basing their decisions on this data which is very misleading" |
 
-https://www.reddit.com/r/AirBnB/comments/3xptgo/airdna/
+[https://www.reddit.com/r/AirBnB/comments/3xptgo/airdna/](
+https://www.reddit.com/r/AirBnB/comments/3xptgo/airdna/)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
@@ -83,16 +81,16 @@ https://www.reddit.com/r/AirBnB/comments/3xptgo/airdna/
 
 |WHAT PEOPLE WANT|
 |----------------|
-| accurate data | 
+| accurate data |
 | data for setting up a listing |
 
 |WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-------------------------------------------------|
 | "They don't have data on my country, Albania. AirBnB is getting traction around here, especially in the coastal areas."|
 
-https://airhostsforum.com/t/airdna-is-this-airbnb-stadistics-site-serious-what-do-you-think/10396
+[https://airhostsforum.com/t/airdna-is-this-airbnb-stadistics-site-serious-what-do-you-think/10396](https://airhostsforum.com/t/airdna-is-this-airbnb-stadistics-site-serious-what-do-you-think/10396)
 
-Airdna: Is this Airbnb stadistics site serious? 
+Airdna: Is this Airbnb stadistics site serious?
 
 |MEMORABLE PHRASES           |
 |----------------------------|
@@ -102,12 +100,11 @@ Airdna: Is this Airbnb stadistics site serious?
 |----------------|
 | "Wondering if the occupancy rates given and other numbers are something hosts have used in the past to increase reservations."|
 
-
 |WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-------------------------------------------------|
 | Airdna: Is this Airbnb stadistics site serious? |
 
-https://airhostsforum.com/t/airdna-good-resource/4083
+[https://airhostsforum.com/t/airdna-good-resource/4083](https://airhostsforum.com/t/airdna-good-resource/4083)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
@@ -120,7 +117,7 @@ https://airhostsforum.com/t/airdna-good-resource/4083
 |WHAT PEOPLE ARE IN PAIN OR EMOTIONALLY REACTING TO|
 |-------------------------------------------------|
 
-https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
+[https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422](https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422)
 
 |MEMORABLE PHRASES           |
 |----------------------------|
@@ -134,7 +131,7 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 
 ### Summary
 
-#### What do people want?
+#### What do people want
 
 - Reliable, Trustful, accurate and non-misleading data
 - How much will a property make a year?
@@ -145,7 +142,7 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 - Getting a competitive advantage
 - get the most on an investment
 - get confidence with an investment
-- choose the best targets 
+- choose the best targets
 - identify local competition and to check if you in line with them on pricing, policies
 - market data for exotic markets (less touristic areas, areas outsite the US)
 
@@ -166,7 +163,7 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
 3. Social Proof
 4. Call To Action
 
-#### 1. Unique Value Proposition:
+#### 1. Unique Value Proposition
 
 - Headline:
   - Identify your local competitors on Airbnb and outperform them
@@ -239,8 +236,6 @@ https://airhostsforum.com/t/how-to-know-if-a-small-market-is-any-good/22422
    - Learn the geographic distribution of your competitors
 
 4. So What?
-
-   - 
 
 #### 3. Call To Action
 

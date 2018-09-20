@@ -1,81 +1,71 @@
 # Landing Page
 
-   
-   - Remove all links, navigation, just call to action (attention ratio = 1!)
-   - Message mtaching: Headline on campaign (preclick promise) fits to headline on landing page   
-   - Landing Page is just for AdCampaign not for anything else (SEO etc) 
-
-
+- Remove all links, navigation, just call to action (attention ratio = 1!)
+- Message mtaching: Headline on campaign (preclick promise) fits to headline on landing page
+- Landing Page is just for AdCampaign not for anything else (SEO etc)
 
 To collect personal information (generate leads) in exchange for:  
 
-   - Reports/Whitepapers with important industry facts and statistics.
-	- Ebooks for comprehensive guides about different aspects of your business vertical.
-	- Newsletters with tips related to your area of subject matter expertise.
-	- Podcasts for people who like to listen & learn during a commute or workout.
-	- Checklists/Scorecards for people that like to see how well they are doing and/or benefit from a to-do list.
-	- Blog subscription to receive ongoing content via email or RSS.
-	- Webinar registration for live online sessions, often with Q&A with experts and special guest presenters.
-	- Presentations or recorded sessions including video or slides.
-	- Consultation services or booking meetings for someone to request your time or services.
-	- An ecourse delivered over a period of time – just like the one you’re reading now!
+- Reports/Whitepapers with important industry facts and statistics.
+- Ebooks for comprehensive guides about different aspects of your business vertical.
+- Newsletters with tips related to your area of subject matter expertise.
+- Podcasts for people who like to listen & learn during a commute or workout.
+- Checklists/Scorecards for people that like to see how well they are doing and/or benefit from a to-do list.
+- Blog subscription to receive ongoing content via email or RSS.
+- Webinar registration for live online sessions, often with Q&A with experts and special guest presenters.
+- Presentations or recorded sessions including video or slides.
+- Consultation services or booking meetings for someone to request your time or services.
+- An ecourse delivered over a period of time – just like the one you’re reading now!
 
 “Warming” prospects up to your offering before you push them deeper into your sales funnel to:
 
-  - Purchase your product or service online.
-  - Become a customer or subscriber of your online business.
-  - Or any of the lead capture uses listed above, if you want to use an introductory page before sending them on to the landing page with your lead gen form.
-
-
+- Purchase your product or service online.
+- Become a customer or subscriber of your online business.
+- Or any of the lead capture uses listed above, if you want to use an introductory page before sending them on to the landing page with your lead gen form.
 
 ## Landing Page Layout
 
-### Lead Generation Landing Page:
+### Lead Generation Landing Page
 
 Get someones email address which gives permission to email marketing
 
 ![Lead Generation Landing Page](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/landing-page-elements-blueprint/1271c8b2-5-elements-of-an-effective-landing-page.gif)
 
-### Click-Through Landing Page:
+### Click-Through Landing Page
 
 Warming up the customer for product purchase
 
 ![Click-Through Landing Page](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/landing-page-elements-blueprint/fcf3f8b4-5-elements-of-an-effective-click-through-landing-page.gif)
 
-
-### Example
+### Example Landing Page
 
 ![Full landing page example](https://cdn.filestackcontent.com/xwjEfbIQT4eADWEtVyUG)
-
 
 ### 1.  Unique Value Proposition
 
 If people can’t determine the purpose of your page from the main headline (and subhead) you’re doing something wrong. If this is the case, try asking a colleague to describe what you do. Often, hearing someone else communicate it will strengthen your own understanding and to help you craft an effective USP.
 
-#### Reinforcement Statemnt 
+#### Reinforcement Statemnt
 
 Use a reinforcement statement to highlight another key benefit of your product or service. It should work hand in hand with your main headline to extend your value proposition.
-
 
 #### Closing Argument
 
 As your landing page comes to a close, you have one final chance to communicate the benefit of your offering. Similar to the reinforcement statement, it backs up your main value proposition. For a click-through page, it should be coupled with a repeat of your call-to-action.
 
-
 #### Example
 
-
-__Webpage Builder__:
+##### Webpage Builder
 
 _Main headline_: The Easiest Way to Build, Publish and Test Landing Pages Without I.T.
 
 _Reinforcement statement_: Create beautiful landing pages in minutes with no HTML
 
-__Student Loans__
+##### Student Loans
 
 _Main headline_: Save Thousands on Your Student Dept
 
-_Subhead_: Refinance interest rates as low as 1.90% 
+_Subhead_: Refinance interest rates as low as 1.90%
 
 _Reinforcement statement_: Submit one form, receive multiple offers
 
@@ -83,7 +73,7 @@ _Reinforcement statement_: Access options from many  of the best loean lenders
 
 _Closing statement_: Stop overpaying on your student debt
 
-__Yoga__
+##### Yoga
 
 _Main headline_: Get Paid to Lead a Yoga Retreat
 
@@ -93,15 +83,11 @@ _Reinforcement statement_: Easys Planning with our retreat wizard
 
 _Closing statement_: Your group is waiting
 
-
-	 
-
 ### 2. Hero Shot
 
 The hero shot is the best photograph or graphical image of your product or service, designed to make it stand out as something worth attaining. In this case it’s the image of an ebook. Notice how it dominates the page.
 
 Your hero shot should dominate the page, making it immediately clear what the page is about. Your USP should reinforce the product shot and vice-versa. If they don’t work together, the audience will become confused.
-
 
 ### 3. Benefits
 
@@ -127,7 +113,6 @@ You often want to include imagery here that shows how each feature will look whe
 
 Social proof is a powerful persuasive concept. Simply put it’s the use of social signals to illustrate that other people have bought/consumed/read/participated in, what you are offering. The concept being that you are more likely to convert if you see that others before you have, and were glad they did.
 
-
 ### 5. Call To Action
 
 Your conversion goal is a term that describes what the purpose of the page is to you. It’s purely a label intended to keep you focused on this page element when designing your page.
@@ -150,19 +135,16 @@ Tip: It can help if you try to complete the sentence “I want to…” with you
 
 ### The Confirmation page
 
-  - The opportunity for more subtle follow-up marketing: keeping people within the sphere of marketing influence if they follow or share on social media.
-  - The opportunity to exceed expectations: differentiate by being the best. Surprise people with a bonus extra offer or content download.
-  - The chance to offer info/advice that would have crowded your landing page: if you wanted to convey a message that wasn’t appropriate for your landing page (as you were rightfully keeping it focused on a single message), you now have the opportunity to do so.
-  - The chance to offer a guided experience: most people like direction. Offer a suggestion of what to do next.
-
+- The opportunity for more subtle follow-up marketing: keeping people within the sphere of marketing influence if they follow or share on social media.
+- The opportunity to exceed expectations: differentiate by being the best. Surprise people with a bonus extra offer or content download.
+- The chance to offer info/advice that would have crowded your landing page: if you wanted to convey a message that wasn’t appropriate for your landing page (as you were rightfully keeping it focused on a single message), you now have the opportunity to do so.
+- The chance to offer a guided experience: most people like direction. Offer a suggestion of what to do next.
 
 ## Call To Action Design and Where To Put It on Your Page
 
-
 Your call-to-action (CTA) is one of the most important elements on your page. It’s the final point of interaction and the last opportunity to convert your visitors.
 
- 
-> Your call-to-action represents a handshake agreement between you and your prospects. 
+> Your call-to-action represents a handshake agreement between you and your prospects.
 
 ### 1. CTA Placement
 
@@ -172,10 +154,9 @@ There are generally two ways to look at the placement of your call-to-action. Ab
 
 Placing your CTA above the fold is the most common placement choice. However, this can be expecting too much of someone who has just arrived at your page. A solution to this is to create a mini landing page experience that contains the critical elements of your page packaged up into a block of content above the fold. Then any supporting content can appear below for those who need to read it to be convinced of your page’s purpose.
 
-
 The benefit to this approach is that it can increase the understanding of what your page is about very quickly, helping to reduce bounce rates.
 
-__The 6-point punch__
+##### The 6-point punch
 
 1. A powerful and descriptive headline: The type that stops you in your tracks when you see it in a newspaper dispenser on the street.
 
@@ -209,14 +190,11 @@ _ACTION:_ And finally, a strong call-to-action completes the story at the point 
 
 If you can turn your page’s message into a story, then the AIDA approach can be a very effective way to build a landing page.
 
-#### 1c. When Should You Place Your CTA Below the Fold?
+#### 1c. When Should You Place Your CTA Below the Fold
 
  The diagram below (from the KISSmetrics blog) demonstrates the correlation between the level of complexity and the best choice of placement on your landing page.
 
-
- ![Where to place CTA](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/call-to-action-design-cta-buttons/a983508c-cta-placement-complexity.png)
-
-
+![Where to place CTA](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/call-to-action-design-cta-buttons/a983508c-cta-placement-complexity.png)
 
 If the product/offer is very simple, and the prospect doesn’t have to do much thinking in order to make an informed decision, positioning the CTA above the fold generally works best.
 
@@ -226,45 +204,41 @@ Tests have shown that for pages that require a high level of trust – such as t
 
 In an experiment by Marketing Experiments, they found that by moving the call-to-action right to the bottom of a long page, the reader was able to digest the amount of information suitable for the purpose of the page – rather than being asked right away to fill in a form, which applied unnecessary friction to the original page.
 
-
-
 ### The 8 guidelines of effective button design
 
 Applying these foundational rules to your button designs will help increase the chances of them standing out for your visitors and being clicked more often.
 
-_Contrast_
+#### Contrast
 
 Contrasting colors are the best way to make your button stand out from the rest of the page. Choose the color that makes it stand out the best, rather than the color you like the best.
 
-_Clickability_
+#### Clickability
 
 Make it look like a button! If it looks flat and unclickable it could be just another design element on the page. Give it some kind of 3D design (without making it look like it was designed in the 90s). You can also increase the feeling of interaction by including a rollover state where the color or depth changes when you hover the mouse over it.
 
-_Size_
+#### Size
 
 Size matters. If your button is buried on the page it’s less likely to be clear that it’s the target element for a conversion. Go big or (your visitors will) go home.
 
-_Directional cues_
+#### Directional cues
 
-Pointing to your call-to-action is a great way to make it stand out, and guide your prospects attention to where you want them to click. Here’s an example of a button design that performed better than the version without by 12.29% (test performed by 
+Pointing to your call-to-action is a great way to make it stand out, and guide your prospects attention to where you want them to click. Here’s an example of a button design that performed better than the version without by 12.29% (test performed by
 
-
-_Call-to-action copy_
+#### Call-to-action copy
 
 The text on your button is of paramount importance. As a general rule it should describe exactly what will happen when it’s clicked. For instance: “Download my free ebook” or “Request a consultation callback”. Never use something like “Submit” or “Click here” – they don’t describe what will happen.
 
-_Supporting information_
+#### Supporting information
 
 A short statement that supports and clarifies the purpose of the button can allow you to keep the CTA copy short and to the point, while adding extra detail. This text is typically smaller in size than the main button text and sits either inside or below the button.
 
-_Urgency_
+#### Urgency
 
 If there is a time or quantity limitation on your offer, be sure to re-state it beside your button to encourage the click. For the text on your button, try including words like “Now” or “Today”.
 
-_Whitespace_
+#### Whitespace
 
 Where is the button? If that’s the response of your visitors you aren’t making it obvious enough. Give it some breathing room so it’s very easy to spot.
-
 
 ## Lead Capture Forms
 
@@ -306,10 +280,9 @@ One approach to improvement for this scenario is to analyze the results you get 
 
 Are a high percentage of dropdown results the first option in the list? If so, you should try to make the answers as short and clearly distinguishable as possible. If people can easily/quickly read the option that applies to them, they will be more inclined to select it.
 
-
 Are the responses to open-ended questions actually real answers? Or are they nonsense (such as “asdfasdf”) designed to get through the form as quickly as possible? If so, you should make the questions more direct and easier to answer. Examples would be: “Tell us about your biggest marketing problem” (requires a short story as an answer) vs. “What is the biggest barrier to your marketing success?” (which could often be answered in a few words).
 
-> The way you ask people to complete form fields is just as important as the information you are asking for. The clearer you ask the question, the more likely you are to get an accurate response. 
+> The way you ask people to complete form fields is just as important as the information you are asking for. The clearer you ask the question, the more likely you are to get an accurate response.
 
 ### 2. The size of the prize
 
@@ -317,7 +290,7 @@ Related to the perceived friction is the incentive you are providing to people w
 
 #### 2a. Incentives
 
-There are many incentives for a user to give up their personal information. Examples include: 
+There are many incentives for a user to give up their personal information. Examples include:
 
 - Ebook
 - Whitepaper
@@ -331,9 +304,6 @@ There are many incentives for a user to give up their personal information. Exam
 - Notification of a future product launch
 
 To align with the concept of balancing incentive with friction, remember to ask for appropriate types of information based on your marketing goals after the conversion. For instance, if you will be sending an automated newsletter to registrants, email or email/name are all that’s needed. Whereas if you have a product/service that requires a follow-up sales call, you would want more information to qualify the level of interest.
-
-
-
 
 #### 1c. Alternative Social Currency
 
@@ -358,37 +328,34 @@ The words on your page are the most important elements to consider when creating
 - Privacy statements
 - Testimonials (though you don’t write these, they’re part of your copy)
 
-
 ### 2. Crafting An Effective Headline
 
 Your headline has one job and one job only. To get your visitors to continue engaging with your message, increase their desire for what you’re offering, and motivate a Call-To-Action click. That’s why when it comes to crafting effective landing page headlines, choose clarity over clever.
 
 Clever calls attention to itself at the expense of the message.
 
-
 ![The Process for finding headline](https://d9hhrg4mnvzow.cloudfront.net/thelandingpagecourse.com/landing-page-copywriting-for-conversion/9b8d4c5c-joanna-wiebe-copywriting-process.png)
 
+#### Formula 1
 
-__Formula 1__
 The Only Way to [Do Something Desirable] Without [Doing Something Undesirable]
 
 _Example_
 The Only Way to Turn Off the Lights Without Clapping or Getting Out of Bed
 
-__Formula 2__
+#### Formula 2
+
 [Do Something Hard] in [Period of Time] or [Promise]
 
 _Example_
 Tune Your Piano in 15 Minutes or “Piano Tuner App” Is Free
 
-__Formula 3__
+#### Formula 3
 
 [Do Something Desirable] Like [an Expert] Without [Something Expected & Undesirable]
 
-_Example_ 
+_Example_
 Learn How to be a Leader like Steve Jobs – Without All the Turtlenecks
-
-
 
 ### 3. Writing A Call To Action
 
@@ -410,7 +377,6 @@ Let’s use a gym membership call-to-action as an example:
 
 This leaves our final button copy as: “Find gym and get membership”
 
-
 ### 4. Privacy Stating Tips
 
 The privacy policy statements you add to your lead generation forms can have a significant impact on how people perceive your trustworthiness, in turn affecting your conversion rates. Michael Aagaard ran some A/B test experiments on this in order to determine which type of messaging works best.
@@ -419,43 +385,41 @@ In the first experiment, the original form (with no privacy statement) was teste
 
 ### 5. Writing Benefit Statements
 
-
 Listing the features of your offering requires your visitors to figure out for themselves how your product or service can help them.
 
 A more effective way to communicate how you’ll solve their problems is to talk in terms of benefits. This lets you speak directly to the needs of your visitors as opposed to talking about yourself.
 
 Copyblogger provides great insight into all kinds of copywriting, including an excellent technique for turning your feature descriptions into benefit driven statements.
 
-##### How to turn your features into benefits
+#### How to turn your features into benefits
 
-Copyblogger recommends a 4 step process to extract the benefits from your features, to find the underlying desires of your prospects. Using a WordPress blog theme as an example, here’s how you can create your own benefit statements:    
+Copyblogger recommends a 4 step process to extract the benefits from your features, to find the underlying desires of your prospects. Using a WordPress blog theme as an example, here’s how you can create your own benefit statements:
 
 1. List all of your product’s features. Narrowed down to the features that are most likely to hook your prospect:
 
-	- Point-and-click site design controls
-	- Mobile responsive layouts
-	- One-click automatic theme updates
-	
+   - Point-and-click site design controls
+   - Mobile responsive layouts
+   - One-click automatic theme updates
+
 2. Examine what each feature does, or why you’ve included it:
 
-	- Easily customizes your site in fewer steps
-	- Adjusts to fit any device, hand-held, tablet or PC
-	- Keeps your site updated and secure at the click of a button
-	- 
+   - Easily customizes your site in fewer steps
+   - Adjusts to fit any device, hand-held, tablet or PC
+   - Keeps your site updated and secure at the click of a button
+
 3. Take your list of what your features do and ask yourself how they connect with your prospect’s true desires:
 
-	- The ease and ability to change your own website in minutes without the need or expense of a developer
-	- No complaints from customers that they can’t find your product or services or see your site’s content correctly on their mobile device
-	- No more worrying about hours of redesigning or coding to get your site to look the way it did before platform updates
+   - The ease and ability to change your own website in minutes without the need or expense of a developer
+   - No complaints from customers that they can’t find your product or services or see your site’s content correctly on their mobile device
+   - No more worrying about hours of redesigning or coding to get your site to look the way it did before platform updates
 
-3. To get to the bottom of each feature’s true benefit, keep asking the question “What does this mean for your prospect on an emotional level?”:
+4. To get to the bottom of each feature’s true benefit, keep asking the question “What does this mean for your prospect on an emotional level?”:
 
-	- Freedom and flexibility from having to pay a developer every time you want to change something on your website, and full creative control at your fingertips
-	- The relief and happiness of knowing that your prospects will always be able to get in touch with you or buy your product or services no matter what device they are using
-	- The confidence that your website is secure, looking great, and working for you regardless of how many versions of WordPress come out
+   - Freedom and flexibility from having to pay a developer every time you want to change something on your website, and full creative control at your fingertips
+   - The relief and happiness of knowing that your prospects will always be able to get in touch with you or buy your product or services no matter what device they are using
+   - The confidence that your website is secure, looking great, and working for you regardless of how many versions of WordPress come out
 
 or So what? method
-
 
 ### 6. Customer Writes for You
 
@@ -463,13 +427,11 @@ According to Copyhackers founder Joanna Weibe, if you want know what messages to
 
 In this example, a testimonial was used to extract a benefit statement of the solution offered on a landing page and use it in a new headline.
 
-
-
 > We love our business user account. How are we using it? To elimate 99% of our paper files
 
-__Headline__
+#### Headline
 
-Elimate Up To 99% Of Your Paper Files 
+Elimate Up To 99% Of Your Paper Files
 
 To gather this type of information, think of yourself as an editor… and think of your customers as your copywriters. Your customers are writing your copy all over the place, including:
 
@@ -478,7 +440,6 @@ To gather this type of information, think of yourself as an editor… and think 
 - In tweets, on Facebook, on LinkedIn, in YouTube comments
 - In online forums
 - In LiveChat transcripts
-
 
 Get inspired by Amazon Reviews for your  messaging [Amazon Review Mining by Joanna Wiebe](http://copyhackers.com/2014/10/amazon-review-mining/)
 
