@@ -250,7 +250,7 @@ A correctly designed form can be a good opportunity for a conversion lift or an 
 
 The balancing act of lead capture forms:
 
-The fear of the form <<<<<<<<<<>>>>>>>>>>>> The size of the prize
+The fear of the form <-<-<- ->->-> The size of the prize__
 
 ### 1. Fear of the Form – Perceived and Actual Friction
 

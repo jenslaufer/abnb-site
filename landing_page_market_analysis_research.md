@@ -1,4 +1,4 @@
-# Landing Page Market Analysis Report
+# Landing Page market Analysis Report
 
 What's the target customer:
 
@@ -167,20 +167,37 @@ Airdna: Is this Airbnb stadistics site serious?
 
 - Headline:
   - Identify your local competitors on Airbnb and outperform them
-  - The revenue-gaining power of local Airbnb Market Data Analysis ...Without hours of research
-  - Accurate & Time saving Airbnb Market Analysis reports that pass you a competitive advantage
+  - The revenue-gaining power of local Airbnb market Data Analysis ...Without hours of research
+  - Easy-to-read & Time saving Airbnb market Analysis reports that pass you a competitive advantage
   - We Promise Just One Thing: Insights about your Airbnb competitors
-  - Get access to your local Airbnb Market Data at your fingertips
+  - Get access to your local Airbnb market Data at your fingertips
   - AirDna provides Airbnb Data for the U.S, bnbdata for everywhere else
-  - The Only local Airbnb Market Analysis Made Exclusively To Airbnb hosts outsite the U.S.
-- Subheaders:
-  - Save hours for research with our Market Data Analysis Report for your area
+  - The Only local Airbnb market Analysis Made Exclusively To Airbnb hosts outside the U.S.
+- Sub headers:
+  - Save hours for research with our market Data Analysis Report for your area
   - Save a huge amount of time for research with our report and toss away your spreadsheets
 - Introductory paragraph:
-- Reinforcement Statement:
+- Reinforcement Statement: Take the guesswork out of your hosting strategy
 - Closing Argument
 
 #### 2. Benefits
+
+The true desires of Airbnb hosts from their perspective:
+
+- I want to work less and do what I really like therefore I want to generate with my listing the highest income as possible with minimal effort
+- I want to be financially independent
+- I want to retire  my 9-5 job
+- I want get the best return investment (ROI) on a listing
+- I want to be confident that I am on the right track wih my listing
+
+- Generate the highest income as possible with the least effort to work less and do what you really like
+
+- Generate the highest revenue as possible to be financial independent with a passive income
+- Get convenience that they get most out of their listing
+- Decrease effort for managing the listing to work less and do what they like
+- Find a property with the best return on investment (ROI)
+- Extra income to fund your passions
+- Rent out extra space effortlessly
 
 ##### Question Technique 1
 
@@ -188,7 +205,7 @@ Airdna: Is this Airbnb stadistics site serious?
 
    (Point-and-click site design controls)
 
-   - Overall Market Metrics
+   - Overall market Metrics
    - Listing Metrics
    - Seasonality Occupancy Average Daily Rate Heatmap
    - Top 50 listings by occupancy and revenue
@@ -213,9 +230,9 @@ Airdna: Is this Airbnb stadistics site serious?
 
 1. Features
 
-   - Overall Market Metrics
-   - Listing Metrics
-   - Seasonality Occupancy Average Daily Rate Heatmap
+   - Overall market Metrics for all listings in an area
+   - Listing Metrics for your listing
+   - Seasonality Occupancy Average Daily Rate Calendar Heatmap
    - Top 50 listings by occupancy and revenue
    - Interactive Map with listings in the region
 
@@ -223,7 +240,7 @@ Airdna: Is this Airbnb stadistics site serious?
 
    - You can see how your market performs with the overall market metrics
    - You can see how your listing performs against the market average with the listings metrics
-   - You can see the average daily rates and occupancy for the next 6 months with Occupancy and Average Daily Rate Calendar
+   - You can see the average daily rates and occupancy for the next 6 months with the Occupancy and Average Daily Rate Calendar
    - You can see the high performers in your market with the top 50 listings
    - You can see where the listings are located on the Interactive map
 
@@ -233,19 +250,34 @@ Airdna: Is this Airbnb stadistics site serious?
    - Learn the performance of you listing against the market average
    - Learn about the seasonality in your market: when the demand is higher and when the competitors increase the prices
    - Learn from the top performers and what differentiate them from you
-   - Learn the geographic distribution of your competitors
+   - Learn where your competitors are located
 
 4. So What?
 
+   - Check if you are on the right track with our market and listing metrics lend from the hotel industry
+   - Identify hidden opportunities for extra money with our occupancy and average daily rate calendar
+   - Save hours of work of collecting data and staring at numbers in spreadsheets with our intuitive visualizations
+   - Learn from the top performers with the Top 50 performer visualizations
+
+##### Benefits
+
+- Save hours of collecting
+
+   | Measure how your listing is performing| Spot hidden opportunities for extra income | Save hours of collecting data | Increase income by learning from the top performers |
+   |-------------------------------------|------------------------------------------------|----------------------------------------|-------------------------------|
+   | Our hotel industry like metrics for your area and the personalized listing metrics let's you quickly identify if you are on the right track| Find high demand periods and when to adjust rates with our average daily rate and occupancy calendar| Our calculated metrics and intuitive visualizations save you a lot of effort in collecting data by hand, calculating values and staring on number in spreadsheets| Detect the top performers and where they are located with the top performer visualization and our interactive maps|
+
 #### 3. Call To Action
 
-- Download a Airbnb Market Analysis for my area now
-- Get a Airbnb Market Analysis for my area now
-- Download a Airbnb Market Analysis for your area now
-- Buy a Airbnb Market Analysis for my area Now
+- Download a Airbnb market Analysis for my area now
+- Get a Airbnb market Analysis for my area now
+- Get the Airbnb market Analysis for my area now
+- Download a Airbnb market Analysis for your area now
+- Buy a Airbnb market Analysis for my area Now
+- Outperform my competitors with my personalized Airbnb market analysis
 
 #### 4. Social Proof
 
-Every Sunday I was checking the Airbnb calendars of my competitors calculating occupancy rates and comparing their rates. I was putting these data in an Excel Sheet. This took hours, was frustrating because I made so many mistakes... I am so happy that these time are gone. I was so happy when I received my Airbnb Market Analysis. Now I was able to get actionable insights on the WHOLE market and my competitors. I even identified new competitors. The report saved me a lot of time and helped me to do better.
+Every Sunday I was checking the Airbnb calendars of my competitors calculating occupancy rates and comparing their rates. I was putting these data in an Excel Sheet. This took hours, was frustrating because I made so many mistakes... I am so happy that these time are gone. I was so happy when I received my Airbnb market Analysis. Now I was able to get actionable insights on the WHOLE market and my competitors. I even identified new competitors. The report saved me a lot of time and helped me to do better.
 
 Manuel, Airbnb Host in Frankfurt, Germany
