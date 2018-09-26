@@ -11,27 +11,27 @@
 
 ## Take the guesswork out of your hosting strategy
 
-![Calendar](http://bnbdata.co/images/calendar.png)
-
 ### Spot hidden opportunities for extra income
+
+![Metrics](http://bnbdata.co/images/calendar.png)
 
 Find high demand periods and when to adjust rates with our average daily rate and occupancy calendar
 
-![Metrics](http://bnbdata.co/images/metrics.PNG)
-
 ### Measure how your listing is performing
+
+![Metrics](http://bnbdata.co/images/metrics.PNG)
 
 Our hotel industry like metrics for your area and the personalized listing metrics let's you quickly identify if you are on the right track
 
-![map](http://bnbdata.co/images/map.PNG)
-
 ### Save hours of collecting data
+
+![map](http://bnbdata.co/images/map.PNG)
 
 Our calculated metrics and intuitive visualizations save you a lot of effort in collecting data by hand, calculating values and staring on number in spreadsheets
 
-![Top50](http://bnbdata.co/images/top50.PNG)
-
 ### Learn from the top performers
+
+![Top50](http://bnbdata.co/images/top50.PNG)
 
 Find the top performers and where they are located with the top performer visualization and our interactive maps
 
