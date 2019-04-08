@@ -1,7 +1,7 @@
 _source/*.html
-
+_source/*.md
+_source/*.pdf
 Gemfile.lock
 _posts/2019-04-03-the-test.md
 .sass-cache/
 _site/
-_source/*.md
