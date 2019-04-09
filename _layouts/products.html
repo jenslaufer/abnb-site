@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<h1>Our Products</h1>
+<ul>
+    {% for product in site.pages %}
+    <li>
+        <h2><a href="{{ product.url }}">{{ product.title }}</a></h2>
+        <p>{{ product.excerpt }}</p>
+    </li>
+    {% endfor %}
+</ul>

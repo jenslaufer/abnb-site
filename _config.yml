@@ -118,6 +118,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _products
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -244,6 +245,16 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  - scope:
+      path: "_products"
+      type: products
     values:
       layout: single
       author_profile: true
