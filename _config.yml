@@ -113,6 +113,7 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+  
 
 # Reading Files
 include:
@@ -239,6 +240,11 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  products:
+    output: true
+
 # Defaults
 defaults:
   # _posts
@@ -253,12 +259,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "_products"
+      path: ""
       type: products
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
