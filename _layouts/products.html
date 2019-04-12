@@ -2,7 +2,7 @@
 layout: archive
 ---
 
-<h1>Our Products</h1>
+<h3 class="archive__subtitle">Our Products</h3>
 {% for product in site.products %}
-<h2><a href="{{ product.url }}">{{ product.title }}</a></h2>
+<p><a href="{{ product.url }}"><img alt="{{ product.title }}" src="{{ product.tile }}"></a></p>
 {% endfor %}
